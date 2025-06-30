@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+:root {
+    /* Web Hannah Color Palette */
+    --color-verde: #93ca07;
+    --color-verde-limon: #d6f576;
+    --color-negro: #040404;
+    --color-gris: #646463;
+    --color-gris-claro: #a4a4a4;
+    --color-blanco: #F1F1F1;
+}
